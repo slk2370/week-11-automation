@@ -6,9 +6,7 @@
 
 • VERIFY if node.js already installed: 
 
-```bash
-  node -v
-```
+```bash node -v ```
   if not, install node.js https://nodejs.org/en/download/package-manager/#macos
 
 • INITIALIZE new application:
